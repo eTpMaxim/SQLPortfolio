@@ -36,6 +36,7 @@ The purpose of this is project is to assist stakeholders answer possible questio
 ## Built With
 
 SQL Server Management Studio 19
+
 Tableau Public 2023.2
 
 ## Authors
