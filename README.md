@@ -27,6 +27,16 @@
 
 ![Screen Shot](https://github.com/eTpMaxim/SQLPortfolio/blob/main/Movie%20SQL.png)
 
+## Stakeholder Questions
+
+- What genre brings in the most revenue?
+- Which genres score the highest ratings?
+- Is there a correlation between movie length and rating?
+- Is there a correlation between year of release and rating?
+- Is there a correlation between gross and rating?
+- Are there any notable directors or actors whose movie consistently perform well in ratings?
+- Identify any other correlated trends
+
 # IMDB Ratings Using SQL and Tableau
 
 ## Purpose
