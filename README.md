@@ -51,7 +51,7 @@ Tableau Public 2023.2
 
 ## Authors
 
-* **Kasun Wong** - *Aspiring Data Analyst* - [Kasun Wong](https://kasunwong.wixsite.com/portfolio) - **
+* **Kasun Wong** - *Aspiring Data Analyst* - [Kasun Wong](https://kasunwong.wixsite.com/portfolio)
 
 ## Acknowledgements
 
