@@ -30,6 +30,7 @@
 ## Stakeholder Questions
 
 - What genre brings in the most revenue?
+- What genre appears the most on the Top 1000 list?
 - Which genres score the highest ratings?
 - Is there a correlation between movie length and rating?
 - Is there a correlation between year of release and rating?
@@ -61,4 +62,4 @@ Tableau Public 2023.2
 # Project Documentation
 
 - Ran query to sort top 200 movies by highest gross, saved as MovieRevenueSort.sql
-- 
+- Ran query to count the total number of times each genre appears on the Top 1000 list, saved as GenreCount.sql
