@@ -63,3 +63,8 @@ Tableau Public 2023.2
 
 - Ran query to sort top 200 movies by highest gross, saved as MovieRevenueSort.sql
 - Ran query to count the total number of times each genre appears on the Top 1000 list, saved as GenreCount.sql
+
+# Insights
+- The highest grossing movie genres are Action and Adventure
+- Drama appears the most times on this list at a whopping 724 times!
+  
